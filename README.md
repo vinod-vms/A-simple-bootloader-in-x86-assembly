@@ -2,12 +2,11 @@
 
 After the initial POST (Power-on Self-Test), the BIOS looks for the last two bytes in the MBR (512 bytes) for the _boot signature_. If it is __0x55aa__, the BIOS determines that this is, in deed, the boot sector and proceeds with booting up the machine with the bootstrap code.
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="./bootloader.png">
-    <source src="./bootloader.mp4" type="video/mp4">
-    
-  </video>
-</figure>
+
+
+https://user-images.githubusercontent.com/25525969/152152887-60239645-20b3-45ef-aa3c-19a555dd34fa.mp4
+
+
 
 ### Courtesy
 
