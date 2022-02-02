@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/25525969/152152887-60239645-20b3-45ef-
 
 ### Courtesy
 
-I am learning about how a bootloader works. I got help from various sources, especially, https://wiki.osdev.org/Main_Page and https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
+I am learning about how a bootloader works. I got help from various resources, especially, https://wiki.osdev.org/Main_Page and https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
 
 ### How to Assemble
 
